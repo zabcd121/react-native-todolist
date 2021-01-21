@@ -1,2 +1,2 @@
 
-                                                                  create todolist with react-native
+                                                      create todolist with react-native
